@@ -2,6 +2,7 @@
 
 Chat with an AI about any webpage — from your terminal.
 
+![cli-rag](https://github.com/user-attachments/assets/d5a3263c-be23-479e-ab29-d613347f0aa3)
 
 ---
 
