@@ -19,8 +19,8 @@ Chat with an AI about any webpage — from your terminal.
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/your-username/cli-article-chat
-cd cli-article-chat
+git clone https://github.com/theakash04/rag-cli.git
+cd rag-cli
 
 # Install dependencies
 pip install -r requirements.txt
